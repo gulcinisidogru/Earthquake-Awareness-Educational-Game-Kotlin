@@ -25,9 +25,10 @@ This main repository is closed to direct modification. To create your own copy, 
 Copy the URL of the project in your own account and type the following command in the terminal:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Earthquake-Awareness-Educational-Game-Kotlin.git](https://github.com/YOUR_USERNAME/Earthquake-Awareness-Educational-Game-Kotlin.git)
+```
 
+### 3. Firebase and Database Configuration
 
-### 3. Firebase and Database Configuration 
 
 For security and privacy reasons, Firebase configuration files have been removed from the project. To run it, you must follow these steps:
 
