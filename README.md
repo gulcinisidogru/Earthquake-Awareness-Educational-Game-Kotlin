@@ -111,7 +111,6 @@ Click here if you want to contact me.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gulcinisidogru/)
 
 
-
 ---
 
-> **Note:** Due to the modularity principle, the Unity-based AR (Augmented Reality) code for this project is stored in a separate repository.
+> **Note:** Following the principle of modularity, the Unity-based AR (Augmented Reality) components of this project are hosted in a dedicated repository. You can access the AR source code and assets [here](https://github.com/gulcinisidogru/Earthquake-Awareness-Educational-Game-Unity-AR).
