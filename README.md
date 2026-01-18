@@ -95,7 +95,7 @@ This project is an open-source educational material. If you would like to contri
 
 1. **Fork the Project:** Copy it to your account using the button in the upper right corner.
 2. **Make Your Changes:** Develop the copy (fork) in your account.
-3. **Create a Pull Request (PR):** Submit a request to add your changes to the main project.
+3. **Create a Pull Request (PR):** You can submit a Pull Request if you have fixed a bug in the original project or made a technical improvement that benefits everyone.
 
 > **Note:** To maintain project structure, permission to create branches directly on this repository is not granted.
 
@@ -105,7 +105,12 @@ This project is an open-source educational material. If you would like to contri
 
 **Gülçin İşidoğru** 
 
-[LinkedIn](https://www.linkedin.com/in/gulcinisidogru/)
+To bring this project to life, I needed to generate approximately **70+ APKs**. It's true that during the testing process, I temporarily "took over" the phones of all my friends using Android, testing their patience. 😅 But hacking into every phone was worth it for earthquake awareness!
+
+Click here if you want to contact me.
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gulcinisidogru/)
+
+
 
 ---
 
